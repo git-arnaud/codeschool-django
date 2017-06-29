@@ -1,0 +1,36 @@
+[
+	{
+		"model": "www.person",
+		"pk": 1,
+		"fields": {
+			"name": "Adam Fortuna",
+			"title": "Course Director",
+			"email": "adam@codeschool.com",
+			"image": "https://images.pexels.com/photos/236187/pexels-photo-236187.jpeg?w=940&h=650&auto=compress&cs=tinysrgb"
+		}
+
+	},
+	{
+		"model": "www.person",
+		"pk": 2,
+		"fields": {
+			"name": "Sarah Holderness",
+			"title": "Course Instructor",
+			"email": "sarah@codeschool.com",
+			"image": "https://images.pexels.com/photos/27411/pexels-photo-27411.jpg?w=940&h=650&auto=compress&cs=tinysrgb"
+		}
+
+	},
+	{
+		"model": "www.person",
+		"pk": 3,
+		"fields": {
+			"name": "Matthew Jack",
+			"title": "Team Instructor",
+			"email": "matthew@codeschool.com",
+			"image": "https://images.pexels.com/photos/38554/girl-people-landscape-sun-38554.jpeg?h=350&auto=compress&cs=tinysrgb"
+		}
+
+	}
+
+]
